@@ -1,0 +1,4 @@
+Suma: 75
+Media: 15.0
+Valoarea minimă: 5
+Valoarea maximă: 25
